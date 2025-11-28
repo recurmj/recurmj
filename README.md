@@ -18,6 +18,18 @@ https://github.com/recurmj/recur-standard
 👉 **Recur Canon (primary archive)**  
 https://recurlabs.org/canon
 
+
+## 🧵 **Ethereum Magicians Discussions (RIPs)**  
+Primary public threads establishing the standard and formal discussions with the Ethereum research community.
+
+👉 **RIP-001 · Permissioned-Pull Objects (ERC Draft Discussion)**  
+https://ethereum-magicians.org/t/draft-erc-rip-001-permissioned-pull-standard-consented-flow-layer-for-digital-value/25931
+
+👉 **RIP-009 · Cross-Network Consent Verification Standard (ERC Draft Discussion)**  
+https://ethereum-magicians.org/t/draft-erc-rip-009-cross-network-consent-verification-standard/26637/2
+
+(These threads document the early review, technical debate, and standardization pathway for the core permissioned-pull primitives and the consent invariant κ₍c₎.)
+
 ---
 
 ## 🔷 **Recur Improvement Proposals (RIPs)**  
